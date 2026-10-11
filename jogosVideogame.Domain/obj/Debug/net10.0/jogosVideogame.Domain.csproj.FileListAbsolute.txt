@@ -1,0 +1,12 @@
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\bin\Debug\net10.0\jogosVideogame.Domain.deps.json
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\bin\Debug\net10.0\jogosVideogame.Domain.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\bin\Debug\net10.0\jogosVideogame.Domain.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.csproj.AssemblyReference.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.AssemblyInfoInputs.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.AssemblyInfo.cs
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.csproj.CoreCompileInputs.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\refint\jogosVideogame.Domain.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\jogosVideogame.Domain.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Domain\obj\Debug\net10.0\ref\jogosVideogame.Domain.dll

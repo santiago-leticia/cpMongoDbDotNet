@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "GetAll",
+    "RelativePath": "api/Jogos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "AddJogo",
+    "RelativePath": "api/Jogos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jogo",
+        "Type": "jogosVideogame.Models.Jogo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "GetBuscarPlataformaPreco",
+    "RelativePath": "api/Jogos/busca",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "plataforma",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "preco",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "GetRelatorioEstoque",
+    "RelativePath": "api/Jogos/relatorio-estoque",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "GetByIdJogos",
+    "RelativePath": "api/Jogos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "UpdateJogo",
+    "RelativePath": "api/Jogos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "jogo",
+        "Type": "jogosVideogame.Models.Jogo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "jogosVideogame.Controllers.JogosController",
+    "Method": "DeleteJogo",
+    "RelativePath": "api/Jogos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

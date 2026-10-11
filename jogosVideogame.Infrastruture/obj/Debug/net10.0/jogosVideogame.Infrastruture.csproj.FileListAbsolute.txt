@@ -1,0 +1,15 @@
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.csproj.AssemblyReference.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.AssemblyInfoInputs.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.AssemblyInfo.cs
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.csproj.CoreCompileInputs.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\bin\Debug\net10.0\jogosVideogame.Infrastruture.deps.json
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\bin\Debug\net10.0\jogosVideogame.Infrastruture.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\bin\Debug\net10.0\jogosVideogame.Infrastruture.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\bin\Debug\net10.0\jogosVideogame.Domain.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\bin\Debug\net10.0\jogosVideogame.Domain.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVid.BB6EC152.Up2Date
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\refint\jogosVideogame.Infrastruture.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\jogosVideogame.Infrastruture.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Infrastruture\obj\Debug\net10.0\ref\jogosVideogame.Infrastruture.dll

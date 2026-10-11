@@ -1,0 +1,15 @@
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\bin\Debug\net10.0\jogosVideogame.Application.deps.json
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\bin\Debug\net10.0\jogosVideogame.Application.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\bin\Debug\net10.0\jogosVideogame.Application.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\bin\Debug\net10.0\jogosVideogame.Domain.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\bin\Debug\net10.0\jogosVideogame.Domain.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.csproj.AssemblyReference.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.AssemblyInfoInputs.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.AssemblyInfo.cs
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.csproj.CoreCompileInputs.cache
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVid.E3480048.Up2Date
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\refint\jogosVideogame.Application.dll
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\jogosVideogame.Application.pdb
+E:\Advanced business Development with .Net\jogosVideogame\jogosVideogame.Application\obj\Debug\net10.0\ref\jogosVideogame.Application.dll

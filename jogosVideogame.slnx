@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="E:/Advanced business Development with .Net/jogosVideogame/jogosVideogame.Application/jogosVideogame.Application.csproj" Id="fff262a5-dc23-467c-9c91-f95f21de163d" />
+  <Project Path="E:/Advanced business Development with .Net/jogosVideogame/jogosVideogame.Domain/jogosVideogame.Domain.csproj" Id="5358e06b-a455-4d10-84db-0fdd796bc998" />
+  <Project Path="E:/Advanced business Development with .Net/jogosVideogame/jogosVideogame.Infrastruture/jogosVideogame.Infrastruture.csproj" Id="d2856f04-1f1e-4f22-8697-8bddbb8bc7db" />
+  <Project Path="E:/Advanced business Development with .Net/jogosVideogame/jogosVideogame/jogosVideogame.csproj" />
+</Solution>
